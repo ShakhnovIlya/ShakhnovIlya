@@ -1,6 +1,6 @@
 <h2 dir="auto"> Hi there 👋 </h2>
 
-<h2 dir="auto">I am Iliya</h2>
+<h2 dir="auto">I am Ilya</h2>
 
 <h2 dir="auto">I'm web developer &amp; software engineer</h2>
 

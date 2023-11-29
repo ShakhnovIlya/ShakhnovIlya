@@ -8,9 +8,9 @@ I’m currently working on Housing Repair Operational Association of the Oktyabr
 
 <h2 dir="auto">MY SKILLS</h2>
 <ul dir="auto">
-<li>Main stack: JS &amp; PHP</li>
+<li>Main stack: HTML, CSS, JS &amp; PHP</li>
 <li>Frontend: PixelPerfect, FirstMobile, Canvas, SvelteJS, PWA, Less, Sass, SSG, SSR, Material UI, Bootstrap, JQuery, TailwindCSS</li>
-<li>Backend: NodeJS, Laravel, Symfony, RoR</li>
+<li>Backend: PHP, Laravel, Symfony, RoR</li>
 <li>Platforms: WordPress, WooCommerce</li>
 <li>DataBase: MySQL, PostgreSQL, SQLite, Redis, Elastic</li>
 <li>OS/VM/CI/CD: Linux, Docker, GitLab CI, GitHub Actions</li>
